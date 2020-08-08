@@ -1,12 +1,8 @@
 import io.appium.java_client.AppiumDriver;
-
 import io.appium.java_client.MobileElement;
-import org.apache.http.io.SessionOutputBuffer;
 import org.openqa.selenium.remote.DesiredCapabilities;
-
 import java.net.URL;
 
-import static io.appium.java_client.clipboard.ClipboardContentType.URL;
 
 public class CalculatorTest {
 
